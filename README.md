@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Aviral
-<h3 align="center">A Data Science enthusiastic fellow with a passion for turning data into actionable insights, and meaningful stories. Right from the data extraction till the final data product or actionable insights, I enjoy the journey with the data. A dedicated and determined person who can adapt to any environment which is quite evident from the cross-domain projects involving different types of data, platforms and techniques I have worked on. I enjoy working with data​: creating models, predicting and finding insights to support business decisions.</h3>
+<h3 align="center">A Data Science enthusiast fellow with a passion for turning data into actionable insights, and meaningful stories. Right from the data extraction till the final data product or actionable insights, I enjoy the journey with the data. A dedicated and determined person who can adapt to any environment which is quite evident from the cross-domain projects involving different types of data, platforms and techniques I have worked on. I enjoy working with data​: creating models, predicting and finding insights to support business decisions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviraljoshi23&label=Profile%20views&color=0e75b6&style=flat" alt="aviraljoshi23" /> </p>
 
